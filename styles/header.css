@@ -1,4 +1,16 @@
 .cabecalho{
     width: 24%;
+    background-color: white;
+
+}
+
+.catainer {
+
+}
+
+.cotainer__botao:checked~.lista-menu {
+
+}
+.cabecalho__menu-hamburguer {
     
 }
