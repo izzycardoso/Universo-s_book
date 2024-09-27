@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: var(--preto);
+    background-color: var(--branco);
     color: var(--branco);
     font-size:var(--fonte-principal) ;
 }
